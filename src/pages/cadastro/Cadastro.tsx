@@ -140,7 +140,7 @@ function Cadastro() {
             <button className='rounded text-white bg-red-400 hover:bg-red-700 w-1/2 py-2 hover:scale-105 transition-all' onClick={back}>
               Cancelar
             </button>
-            <button className='rounded text-white bg-fuchsia-700 hover:bg-fuchsia-500 w-1/2 py-2 hover:scale-105 transition-all' type='submit'>
+            <button className='rounded text-white bg-indigo-700 hover:bg-indigo-500 w-1/2 py-2 hover:scale-105 transition-all' type='submit'>
               Cadastrar
             </button>
           </div>

@@ -116,7 +116,7 @@ function FormularioTema() {
           />
         </div>
         <button
-          className="rounded text-slate-100 bg-fuchsia-800 hover:bg-fuchsia-600 w-1/2 py-2 mx-auto block"
+          className="rounded text-slate-100 bg-indigo-800 hover:bg-indigo-600 w-1/2 py-2 mx-auto block"
           type="submit"
         >
           {id === undefined ? 'Cadastrar' : 'Editar'}
